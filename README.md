@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Nerkled
+- 👋 Hello, I’m Henry
 - 👀 I’m interested in music, geology, computers, video games, and web dev. 
-- 🌱 I’m currently learning CSIII, OOP, assembly language at my school, so still not very experienced. 
+- 🌱 I’m currently learning CSIII, OOP, assembly language at my university. 
 - 💞️ I’m looking to collaborate on any projects that I can help with, I'm open to anything!
-- 📫 How to reach me: |henrybecker1014@gmail.com|-|Instagram: henry_becker_|
+- 📫 How to reach me: |henrybecker1014@gmail.com|-|Instagram: hberkle|
 
 <!---
 Nerkled/Nerkled is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
