@@ -1,6 +1,5 @@
 - 👋 Hello, I’m Henry
-- 👀 I’m interested in music, geology, computers, video games, and web dev. 
-- 🌱 I’m currently learning CSIII, OOP, assembly language at my university. 
+- 👀 I’m interested in music, geology, computers, video games, and web dev.  
 - 💞️ I’m looking to collaborate on any projects that I can help with, I'm open to anything!
 - 📫 How to reach me: |henrybecker1014@gmail.com|-|Instagram: hberkle|
 
