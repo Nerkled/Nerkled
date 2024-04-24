@@ -1,9 +1,11 @@
-- 👋 Hello, I’m Henry
-- 👀 I’m interested in music, geology, computers, video games, and web dev.  
-- 💞️ I’m looking to collaborate on any projects that I can help with, I'm open to anything!
-- 📫 How to reach me: <henrybecker1014@gmail.com>
+### Hi there 👋, My Name is Henry Becker
+#### Student /Developer
+I am a third year computer science student at the State University at New Paltz, in New Paltz New York. 
 
-<!---
-Nerkled/Nerkled is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills: JAVA / VUE / RUST / C / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
