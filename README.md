@@ -1,7 +1,12 @@
 
 ### Hi there 👋, My Name is Henry Becker
 #### Student /Developer
+
+<br></br>
+
 I am a third year computer science student at State University of New York at New Paltz. 
+
+<br></br>
 
 - 🔭 I’m currently working on this page.
 <p align= "center">  
