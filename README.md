@@ -6,7 +6,7 @@
 I am going into my senior year for computer science at State University of New York at New Paltz. 
 <br></br>
 
-Currently as off the summer 2024, I am working as an Information Technology Support Intern at ACLD based out of Long Island, NY. 
+Currently as of the summer 2024, I am working as an Information Technology Support Intern at ACLD based out of Long Island, NY. 
 <br></br>
       
 Currently tapped into nvim, rust🦀 and go.
